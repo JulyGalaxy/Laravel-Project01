@@ -1,0 +1,11 @@
+.container{
+    margin: auto;
+    max-width: 600px;
+}
+
+.bg{
+    background-color: pink;
+    padding: 5px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
